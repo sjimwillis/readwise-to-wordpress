@@ -1,4 +1,4 @@
-Python script that I call from cron each night to pull all the highlights and notes into my wordpress blog. Each article gets its own entry.
+Python script that I call from cron each night to pull all the highlights and notes I made that day into my wordpress blog. Each article gets its own entry.
 I use a category ID to keep them seperate from my main blog page.
 script writes the date of last run to a config file in your home dir when you run it (so that it knows the last time it ran)
 
